@@ -10,9 +10,10 @@ The Keeper App is a simple and efficient note-taking application that allows you
 - 📈 **Efficiency**: A straightforward and user-friendly interface for seamless note-taking.
 
 ## 📷 Screenshots
+<img width="960" alt="image" src="https://github.com/DushyantBhardwaj07/The-Keeper-App/assets/100109472/24f78e26-cb3b-4dcf-98ce-ee60ed3bd43e">
 
-![Screenshot 1](screenshot1.png)
-![Screenshot 2](screenshot2.png)
+<img width="960" alt="image" src="https://github.com/DushyantBhardwaj07/The-Keeper-App/assets/100109472/ed790bcf-342c-4953-a000-d36b92f17802">
+
 
 ## 📦 Installation
 
@@ -27,7 +28,7 @@ To get started with The Keeper App, follow these simple steps:
    ```bash
    npm install
    npm start
-##💡 Usage
+## 💡 Usage
 1. Launch the app.
 2. Click on the "Add Note" button to create a new note.
 3. Enter a title and content for your note.
